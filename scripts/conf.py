@@ -1,0 +1,7 @@
+# add your user/ pass here 
+
+DIGIKALA_USER_NAME = ''
+DIGIKALA_PASSWORD = ''
+
+VIGIATO_USER_NAME = ''
+VIGIATO_PASSWORD = ''
